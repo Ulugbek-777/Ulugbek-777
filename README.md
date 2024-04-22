@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Ulugbek-777
-- 👀 I’m interested in Programming (Full stack, Gamedev,)
-- 🌱 I’m currently learning Front-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Привет меня зовут Улугбек
 
-<!---
-Ulugbek-777/Ulugbek-777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
+
+🖥 обо мне:
+
+some text
+
+<ul>
+  <li>🎴 • Я Front-end разработчик</li>
+  <li>🎨 • Я учусь в IT Park</li>
+  <li>🧩 • Я хочу освоил новые навыки в сфере ИТ</li>
+</ul>
